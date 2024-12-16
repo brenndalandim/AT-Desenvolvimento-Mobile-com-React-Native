@@ -13,3 +13,4 @@ Esse projeto é um aplicativo em React Native para pedidos e delivery de lanches
 
 ## Uso
 Para usar a aplicação, basta acessar o projeto através do link do snack expo e navegar pela interface para explorar suas funcionalidades.
+https://snack.expo.dev/@brenndalandim/at-2
